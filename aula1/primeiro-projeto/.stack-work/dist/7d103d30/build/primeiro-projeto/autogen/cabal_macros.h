@@ -33,6 +33,17 @@
   (major1) == 3 && (major2) == 2 && (minor) <= 4)
 #endif /* MIN_TOOL_VERSION_alex */
 
+/* tool cpphs-1.20.8 */
+#ifndef TOOL_VERSION_cpphs
+#define TOOL_VERSION_cpphs "1.20.8"
+#endif /* TOOL_VERSION_cpphs */
+#ifndef MIN_TOOL_VERSION_cpphs
+#define MIN_TOOL_VERSION_cpphs(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  20 || \
+  (major1) == 1 && (major2) == 20 && (minor) <= 8)
+#endif /* MIN_TOOL_VERSION_cpphs */
+
 /* tool gcc-7.2.0 */
 #ifndef TOOL_VERSION_gcc
 #define TOOL_VERSION_gcc "7.2.0"

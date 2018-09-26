@@ -29,12 +29,12 @@ version :: Version
 version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
-bindir     = "D:\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\bin"
-libdir     = "D:\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\lib\\x86_64-windows-ghc-8.4.3\\primeiro-projeto-0.1.0.0-KtsYMLw60LK3TJ6ayVXwyp-primeiro-projeto"
-dynlibdir  = "D:\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\lib\\x86_64-windows-ghc-8.4.3"
-datadir    = "D:\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\share\\x86_64-windows-ghc-8.4.3\\primeiro-projeto-0.1.0.0"
-libexecdir = "D:\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\libexec\\x86_64-windows-ghc-8.4.3\\primeiro-projeto-0.1.0.0"
-sysconfdir = "D:\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\etc"
+bindir     = "D:\\Haskell-Curso\\aula1\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\bin"
+libdir     = "D:\\Haskell-Curso\\aula1\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\lib\\x86_64-windows-ghc-8.4.3\\primeiro-projeto-0.1.0.0-KtsYMLw60LK3TJ6ayVXwyp-primeiro-projeto"
+dynlibdir  = "D:\\Haskell-Curso\\aula1\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\lib\\x86_64-windows-ghc-8.4.3"
+datadir    = "D:\\Haskell-Curso\\aula1\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\share\\x86_64-windows-ghc-8.4.3\\primeiro-projeto-0.1.0.0"
+libexecdir = "D:\\Haskell-Curso\\aula1\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\libexec\\x86_64-windows-ghc-8.4.3\\primeiro-projeto-0.1.0.0"
+sysconfdir = "D:\\Haskell-Curso\\aula1\\primeiro-projeto\\.stack-work\\install\\0f3b3bca\\etc"
 
 getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: IO FilePath
 getBinDir = catchIO (getEnv "primeiro_projeto_bindir") (\_ -> return bindir)

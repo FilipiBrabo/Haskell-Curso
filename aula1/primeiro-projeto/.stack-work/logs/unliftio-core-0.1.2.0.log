@@ -1,8 +1,0 @@
-Configuring unliftio-core-0.1.2.0...
-Preprocessing library for unliftio-core-0.1.2.0..
-Building library for unliftio-core-0.1.2.0..
-[1 of 2] Compiling Control.Monad.IO.Unlift ( src\Control\Monad\IO\Unlift.hs, .stack-work\dist\7d103d30\build\Control\Monad\IO\Unlift.o )
-[2 of 2] Compiling Paths_unliftio_core ( .stack-work\dist\7d103d30\build\autogen\Paths_unliftio_core.hs, .stack-work\dist\7d103d30\build\Paths_unliftio_core.o )
-ignoring (possibly broken) abi-depends field for packages
-Installing library in C:\sr\snapshots\03cb0bbe\lib\x86_64-windows-ghc-8.4.3\unliftio-core-0.1.2.0-900TPot3SR34dceIcVaslS
-Registering library for unliftio-core-0.1.2.0..

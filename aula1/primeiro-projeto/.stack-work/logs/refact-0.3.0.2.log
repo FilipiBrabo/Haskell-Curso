@@ -1,7 +1,0 @@
-Configuring refact-0.3.0.2...
-Preprocessing library for refact-0.3.0.2..
-Building library for refact-0.3.0.2..
-[1 of 1] Compiling Refact.Types     ( src\Refact\Types.hs, .stack-work\dist\7d103d30\build\Refact\Types.o )
-ignoring (possibly broken) abi-depends field for packages
-Installing library in C:\sr\snapshots\03cb0bbe\lib\x86_64-windows-ghc-8.4.3\refact-0.3.0.2-n0hNpMWwf9DfLLZaE9G3A
-Registering library for refact-0.3.0.2..

@@ -1,7 +1,0 @@
-Configuring time-locale-compat-0.1.1.5...
-Preprocessing library for time-locale-compat-0.1.1.5..
-Building library for time-locale-compat-0.1.1.5..
-[1 of 1] Compiling Data.Time.Locale.Compat ( src\Data\Time\Locale\Compat.hs, .stack-work\dist\7d103d30\build\Data\Time\Locale\Compat.o )
-ignoring (possibly broken) abi-depends field for packages
-Installing library in C:\sr\snapshots\03cb0bbe\lib\x86_64-windows-ghc-8.4.3\time-locale-compat-0.1.1.5-DDznVvFVEsmlk0WqJppPg
-Registering library for time-locale-compat-0.1.1.5..
