@@ -1,0 +1,17 @@
+Configuring yaml-0.8.32...
+Preprocessing library for yaml-0.8.32..
+Building library for yaml-0.8.32..
+[ 1 of 11] Compiling Paths_yaml       ( .stack-work\dist\7d103d30\build\autogen\Paths_yaml.hs, .stack-work\dist\7d103d30\build\Paths_yaml.o )
+[ 2 of 11] Compiling Text.Libyaml     ( src\Text\Libyaml.hs, .stack-work\dist\7d103d30\build\Text\Libyaml.o )
+[ 3 of 11] Compiling Data.Yaml.Parser ( src\Data\Yaml\Parser.hs, .stack-work\dist\7d103d30\build\Data\Yaml\Parser.o )
+[ 4 of 11] Compiling Data.Yaml.Internal ( src\Data\Yaml\Internal.hs, .stack-work\dist\7d103d30\build\Data\Yaml\Internal.o )
+[ 5 of 11] Compiling Data.Yaml.Include ( src\Data\Yaml\Include.hs, .stack-work\dist\7d103d30\build\Data\Yaml\Include.o )
+[ 6 of 11] Compiling Data.Yaml.Builder ( src\Data\Yaml\Builder.hs, .stack-work\dist\7d103d30\build\Data\Yaml\Builder.o )
+[ 7 of 11] Compiling Data.Yaml.Pretty ( src\Data\Yaml\Pretty.hs, .stack-work\dist\7d103d30\build\Data\Yaml\Pretty.o )
+[ 8 of 11] Compiling Data.Yaml        ( src\Data\Yaml.hs, .stack-work\dist\7d103d30\build\Data\Yaml.o )
+[ 9 of 11] Compiling Data.Yaml.TH     ( src\Data\Yaml\TH.hs, .stack-work\dist\7d103d30\build\Data\Yaml\TH.o )
+[10 of 11] Compiling Data.Yaml.Config ( src\Data\Yaml\Config.hs, .stack-work\dist\7d103d30\build\Data\Yaml\Config.o )
+[11 of 11] Compiling Data.Yaml.Aeson  ( src\Data\Yaml\Aeson.hs, .stack-work\dist\7d103d30\build\Data\Yaml\Aeson.o )
+ignoring (possibly broken) abi-depends field for packages
+Installing library in C:\sr\snapshots\03cb0bbe\lib\x86_64-windows-ghc-8.4.3\yaml-0.8.32-1kDSUb9Q1wA6MnttjyQZ1t
+Registering library for yaml-0.8.32..
