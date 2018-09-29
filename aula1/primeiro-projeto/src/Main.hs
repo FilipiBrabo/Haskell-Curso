@@ -69,8 +69,8 @@ isort (x:xs) = insert x (isort xs)
 -- qsort [] = []
 -- qsort (x:xs) = qsort menores ++ [x] ++ qsort maiores
 --   where
---     --menores = [x | x <- xs, x ]
---     --maiores = [b | b > x]
+--     --menores = [y | y <- xs, y < x]
+--     --maiores = [y | y <- xs, y > x]
 
 main :: IO ()
 main = do
